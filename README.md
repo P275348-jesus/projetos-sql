@@ -3,7 +3,7 @@
 Este projeto analisa dados de um e-commerce fictício para identificar padrões de compras e comportamento dos clientes.
 
 ## 🛠 Tecnologias utilizadas:
-- SQL (PostgreSQL/MySQL)
+- SQL (MySQL)
 - Power BI para visualização
 - GitHub para versionamento
 
